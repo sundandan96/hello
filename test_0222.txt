@@ -1,0 +1,2 @@
+[ubuntu],and add one line ,aiming at test the use of git reset --hard
+
