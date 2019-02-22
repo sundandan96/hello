@@ -22,3 +22,4 @@ this is the test of git pull , there is local ubuntu
 =======
 git hub,test the usage of git pull
 >>>>>>> ade28a853ae8d71de0ff175e09def2b7b5b0eca4
+add one line in branch1
