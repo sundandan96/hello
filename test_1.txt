@@ -15,3 +15,6 @@ test the use of git pull
 
 add oneline in local ubuntu
 add one line in github.com and is aiming at testing the use of git pull and git fetch
+
+
+git hub,test the usage of git pull
